@@ -1,9 +1,9 @@
 package com.example.recyclerviewsearch
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.SearchView
 import androidx.activity.viewModels
+import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.DividerItemDecoration
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
